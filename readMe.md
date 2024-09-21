@@ -1,1 +1,3 @@
-hello:ourselves Srishti S Kanthi and Dhanusha R
+hello:ourselves Srishti S Kanthi and Dhanusha R.
+
+I have ate readMe.m
